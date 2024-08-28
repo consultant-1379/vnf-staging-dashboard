@@ -1,0 +1,13 @@
+$background-color:  #002561;
+$title-color:       rgba(255, 255, 255, 0.7);
+$label-color:       #FFFFFF;
+$value-color:       #000000;
+
+.widget-project-name {
+  background-color: $background-color;
+
+  .title {
+    color: $title-color;
+    font-size: 100px;
+  }
+}

@@ -1,0 +1,136 @@
+---
+- Date: 01-Jan-2020
+  Versions:
+    - ecmVersion: R18.5.0.0.1916.1412
+      lcmVersion: 5.15.15
+      soVersion: 1.2.2300
+  SBG: 2
+  BGF: 3
+  MTAS: 0
+  CSCF: 1
+- Date: 03-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1438
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 2
+  BGF: 2
+  MTAS: 0
+  CSCF: 0
+- Date: 06-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 0
+  BGF: 3
+  MTAS: 0
+  CSCF: 0
+- Date: 07-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 0
+  BGF: 4
+  MTAS: 2
+  CSCF: 0
+- Date: '09-Jan-2020'
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 0
+  BGF: 1
+  MTAS: 2
+  CSCF: 0
+- Date: 10-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 0
+  BGF: 7
+  MTAS: 1
+  CSCF: 0
+- Date: 13-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 2
+  BGF: 13
+  MTAS: 0
+  CSCF: 0
+- Date: 14-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 4
+  BGF: 10
+  MTAS: 3
+  CSCF: 1
+- Date: 15-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 2
+  BGF: 6
+  MTAS: 2
+  CSCF: 0
+- Date: 16-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 0
+  BGF: 5
+  MTAS: 0
+  CSCF: 6
+- Date: 17-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1439
+      lcmVersion: 5.16.5
+      soVersion: 1.2.2304
+  SBG: 0
+  BGF: 2
+  MTAS: 0
+  CSCF: 7
+- Date: 18-Jan-2020
+  Versions:
+    - ecmVersion: "---"
+      lcmVersion: "---"
+      soVersion: "---"
+  SBG: 0
+  BGF: 5
+  MTAS: 0
+  CSCF: 0
+- Date: 19-Jan-2020
+  Versions:
+    - ecmVersion: "---"
+      lcmVersion: "---"
+      soVersion: "---"
+  SBG: 0
+  BGF: 4
+  MTAS: 0
+  CSCF: 0
+- Date: 22-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1447
+      lcmVersion: 5.16.6
+      soVersion: 1.2.2321
+  SBG: 2
+  BGF: 8
+  MTAS: 0
+  CSCF: 0
+- Date: 23-Jan-2020
+  Versions:
+    - ecmVersion: R20.0.0.0.2002.1447
+      lcmVersion: 5.16.6
+      soVersion: 1.2.2321
+  SBG: 3
+  BGF: 7
+  MTAS: 2
+  CSCF: 6

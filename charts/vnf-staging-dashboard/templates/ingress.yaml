@@ -1,0 +1,13 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: vnf-staging-dashboard-ingress
+spec:
+  rules:
+  - host: vnf-staging-dashboard.local
+    http:
+      paths:
+        - path: {{ default "/" .path }}
+          backend:
+            serviceName: "staging-dashboard"
+            servicePort: 3030

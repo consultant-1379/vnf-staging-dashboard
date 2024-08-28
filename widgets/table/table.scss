@@ -1,0 +1,113 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$value-color:       #000;
+
+
+$title-color:       rgba(255, 255, 255, 0.7);
+$label-color:       #000;
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+$th-background-color:       #e6e6e6;
+$tr-odd-background-color:   #FF9A55;
+$tr-even-background-color:  #CC4300;
+$tr-hover-background-color: #FFC043;
+
+// ----------------------------------------------------------------------------
+// Widget-table styles
+// ----------------------------------------------------------------------------
+.widget-table {
+
+  .title {
+    color: $title-color;
+  }
+//table class
+
+  #dataTable{
+    width: 98%;
+    margin: auto;
+  }
+
+  .value {
+    margin-left: 12px;
+    font-weight: 600;
+    color: $value-color;
+  }
+
+  .updated-at {
+    color: rgba(0, 0, 0, 0.3);
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  // Specify a table border for the table, header and cell elements
+  // table { border-collapse: collapse; }
+  // table, th, td { border: 1px solid black; }
+
+  // Just a border around the table, nothing else
+  // table { border: 1px solid black; }
+
+  // Set the background color for the header row
+  th {
+    padding-left: 10px;
+    background-color: $th-background-color;
+    border: 1px solid grey;
+    font-size: 80%;
+    height: 50px;
+    color: black;
+  }
+
+  // If you want a stripped table set the color for both odd and even rows
+ // tr:nth-child(odd) { background-color: $tr-odd-background-color; }
+  //tr:nth-child(even) { background-color: $tr-even-background-color; }
+
+  td {
+    padding-left: 10px;
+    color: $label-color;
+    font-size: 86.5%;
+    border: 1px solid grey;
+    height: 50px;
+  }
+
+
+  .left {
+    text-align: left;
+  }
+  .right {
+    text-align: right;
+  }
+
+  .terminal{
+    background-color: rgba(255,0,0,0.3);
+  }
+
+  .success{
+    background-color: rgba(98,209,70,0.3);
+  }
+
+  .establishment{
+    background-color: rgba(208, 208, 208, 0.3);
+  }
+
+  .not_started{
+    background-color: rgba(102,153,255,0.3);
+  }
+
+  .running{
+    background-color: rgba(229,229,0,0.3);
+  }
+
+  .running-blink{
+    background-color: rgba(229,229,0,0.6);
+  }
+
+  .link{
+    color: #4c4cff;
+  }
+
+  .bold{
+    font-weight: bold;
+  }
+}

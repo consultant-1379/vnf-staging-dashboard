@@ -1,0 +1,2 @@
+---
+BUNDLE_WITHOUT: "eventmachine:(1.2.7-x64-mingw32)"
